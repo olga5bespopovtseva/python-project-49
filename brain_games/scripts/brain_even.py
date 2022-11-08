@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 from random import randint
-from scripts.brain_even import get_correct_answer
-
+from brain_games.scripts.brain_even import get_correct_answer
 
 def get_correct_answer():
     num = (randint(1, 99))
