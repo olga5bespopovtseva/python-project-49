@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 from random import randint
-from brain_games.scripts.brain_even import get_correct_answer
+
 
 def get_correct_answer():
     num = (randint(1, 99))
@@ -15,6 +15,7 @@ def get_correct_answer():
 def main():
     print('Answer "yes" if the number is even, otherwise answer "no".')
     get_correct_answer()
+    print(question, correct_answer)
 
 
 if __name__ == '__main__':
