@@ -2,21 +2,20 @@
 from random import randint
 
 
+DESCRIPTION = 'Answer "yes" if the number is even, otherwise answer "no".'
+
+
 def get_correct_answer():
     num = (randint(1, 99))
-    if num % 2 == 0:
-        correct_answer = 'yes'
-    if num % 2 != 0:
-        correct_answer = 'no'
-    question = f'Question: {num}'
-    return question, correct_answer
+    correct_answer = 'yes' if num % 2 == 0 else 'no'
+    question = num
+    return question, correct_answer    
 
 
 def main():
-    print('Answer "yes" if the number is even, otherwise answer "no".')
-    get_correct_answer()
-    print(question, correct_answer)
-
+    print(DESCRIPTION)
+    print(get_correct_answer())
+    
 
 if __name__ == '__main__':
     main()
