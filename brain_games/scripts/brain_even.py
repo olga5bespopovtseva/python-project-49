@@ -23,7 +23,6 @@ def game_1():
         answer = prompt.string("Your answer: ")
         if answer == correct_answer:
             print('Correct!')
-        elif correct_answer == 3:
             print(f"Congratulations, '{name}'!")
         else:
             print(f"'{answer}' is wrong answer ;(. Correct answer was " f"'{correct_answer}'.")
