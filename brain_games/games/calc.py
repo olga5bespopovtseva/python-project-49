@@ -15,5 +15,4 @@ def get_correct_answer():
     if action == '*':
         correct_answer = num1 * num2
     question = f'Question: {num1} {action} {num2}'
-    return question, correct_answer
-
+    return question, str(correct_answer)
