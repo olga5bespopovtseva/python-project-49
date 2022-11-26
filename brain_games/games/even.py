@@ -9,4 +9,3 @@ def get_correct_answer():
     correct_answer = 'yes' if num % 2 == 0 else 'no'
     question = num
     return question, correct_answer
-
