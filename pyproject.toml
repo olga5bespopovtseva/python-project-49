@@ -7,11 +7,6 @@ readme = "README.md"
 packages = [
   { include = "brain_games" },
 ]
-classifiers = [
-    "Topic :: Learning language Python 3"
-    "Topic :: Python modules",
-    "OS :: independent",
-]
 
 
 [tool.poetry.dependencies]
