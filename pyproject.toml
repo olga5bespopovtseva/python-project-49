@@ -9,9 +9,10 @@ packages = [
 ]
 classifiers = [
     "Topic :: Learning language Python 3"
-    "Topic :: Python modules"
-    "OS :: independent"
-    
+    "Topic :: Python modules",
+    "OS :: independent",
+]
+
 
 [tool.poetry.dependencies]
 python = "^3.8"

@@ -8,8 +8,8 @@ python = "^3.10"
 
 prompt = "^0.4.1"
 
-There are 5 games based on math calculations that will run with these commands putting them into the python-project-49 directory.
-: brain-even, brain-calc, brain-gcd, brain-progression and brain-prime.
+There are 5 games based on math calculations that will run with these commands putting them into the python-project-49 directory: brain-even, brain-calc, brain-gcd, brain-progression and brain-prime.
+To install the package you will need to run 'make package-install': python3 -m pip install --user --force-reinstall dist/*.whl
 
 
 Demos:
@@ -23,4 +23,3 @@ brain-gcd: https://asciinema.org/a/oYa0URyODXegmBkMAU71PCAWo
 brain-progression: https://asciinema.org/a/MPs7SdTME7cVlyVmiR31YrTK6
 
 brain-prime: https://asciinema.org/a/1LirSBpcWkCoodZa1q59x5G4N
-
