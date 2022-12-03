@@ -14,12 +14,12 @@ To install the package you will need to run 'make package-install': python3 -m p
 
 Demos:
 
-brain-even: https://asciinema.org/a/qstovkm2xZK4YlP4RrU4rbtXo
+brain-even: <a href="https://asciinema.org/a/qstovkm2xZK4YlP4RrU4rbtXo" target="_blank"><img src="https://asciinema.org/a/qstovkm2xZK4YlP4RrU4rbtXo.svg" /></a>
 
-brain-calc: https://asciinema.org/a/QyuGOGMvJbhYcNY9F8CA7whNT 
+brain-calc: <a href="https://asciinema.org/a/QyuGOGMvJbhYcNY9F8CA7whNT" target="_blank"><img src="https://asciinema.org/a/QyuGOGMvJbhYcNY9F8CA7whNT.svg" /></a>
 
-brain-gcd: https://asciinema.org/a/oYa0URyODXegmBkMAU71PCAWo
+brain-gcd: <a href="https://asciinema.org/a/oYa0URyODXegmBkMAU71PCAWo" target="_blank"><img src="https://asciinema.org/a/oYa0URyODXegmBkMAU71PCAWo.svg" /></a>
 
-brain-progression: https://asciinema.org/a/MPs7SdTME7cVlyVmiR31YrTK6
+brain-progression: <a href="https://asciinema.org/a/MPs7SdTME7cVlyVmiR31YrTK6" target="_blank"><img src="https://asciinema.org/a/MPs7SdTME7cVlyVmiR31YrTK6.svg" /></a>
 
-brain-prime: https://asciinema.org/a/1LirSBpcWkCoodZa1q59x5G4N
+brain-prime: <a href="https://asciinema.org/a/1LirSBpcWkCoodZa1q59x5G4N" target="_blank"><img src="https://asciinema.org/a/1LirSBpcWkCoodZa1q59x5G4N.svg" /></a>
