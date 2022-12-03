@@ -14,7 +14,7 @@ To install the package you will need to run 'make package-install': python3 -m p
 
 Demos:
 
-brain-even: <a href="https://asciinema.org/a/qstovkm2xZK4YlP4RrU4rbtXo" target="_blank"><img src="https://asciinema.org/a/qstovkm2xZK4YlP4RrU4rbtXo.svg" /></a>
+brain-even: [![asciicast](https://asciinema.org/a/qstovkm2xZK4YlP4RrU4rbtXo.svg)](https://asciinema.org/a/qstovkm2xZK4YlP4RrU4rbtXo)
 
 brain-calc: <a href="https://asciinema.org/a/QyuGOGMvJbhYcNY9F8CA7whNT" target="_blank"><img src="https://asciinema.org/a/QyuGOGMvJbhYcNY9F8CA7whNT.svg" /></a>
 
