@@ -4,7 +4,7 @@ from random import randint
 DESCRIPTION = "What number is missing in the progression?"
 
 
-def get_correct_answer():
+def get_question_with_answer():
     start = randint(1, 50)
     step = randint(2, 7)
     length = randint(5, 10)

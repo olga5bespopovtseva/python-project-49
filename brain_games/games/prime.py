@@ -15,7 +15,7 @@ def is_prime(k):
     return True
 
 
-def get_correct_answer():
+def get_question_with_answer():
     rand_num = randint(1, 99)
     correct_answer = 'yes' if is_prime(rand_num) is True else 'no'
     question = f"{rand_num}"

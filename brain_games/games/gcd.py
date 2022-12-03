@@ -5,7 +5,7 @@ from math import gcd
 DESCRIPTION = 'Find the greatest common divisor of given numbers.'
 
 
-def get_correct_answer():
+def get_question_with_answer():
     num1 = randint(1, 100)
     num2 = randint(1, 100)
     correct_answer = str(gcd(num1, num2))
